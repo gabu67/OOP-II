@@ -1,4 +1,4 @@
-import java.util.Scanner;;
+import java.util.Scanner;
 
 class HelloTillStop {
     Scanner sc = new Scanner(System.in);
